@@ -1,5 +1,4 @@
-﻿using Microsoft.Win32;
-using Test2task5.Models;
+﻿using Test2task5.Models;
 
 namespace Test2task5
 {
@@ -41,3 +40,4 @@ namespace Test2task5
         }
     }
 }
+
