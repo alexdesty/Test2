@@ -5,7 +5,7 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        var num = -43874;
+        var num = -3243245;
         Console.WriteLine(num.IntToStr());
     }
 }
